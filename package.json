@@ -1,0 +1,14 @@
+{
+  "name": "backend-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Irwansyah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
