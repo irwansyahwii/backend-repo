@@ -1,6 +1,8 @@
 import { app } from "./core/app";
 import './routes/userRoutes';
 
+
+
 const port = process.env.PORT || 8000;
 
 app.get('/', (req, res) => {
