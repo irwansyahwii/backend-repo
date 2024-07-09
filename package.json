@@ -11,9 +11,11 @@
   "author": "Irwansyah",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
-    "firebase-admin": "^12.2.0",
+    "firebase-admin": "^10.0.2",
     "firebase-auth-express-middleware": "^1.0.10"
   },
   "devDependencies": {
